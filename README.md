@@ -1,5 +1,9 @@
 # multi-caller-mcp
 
+Imagine your agent makes `n` calls for doing a `n` step workflow. And during each call it wastes tokens in repititive reasoning and token generation. We can do the same workflow with 2 generations instead of `2 + n`
+
+Idea is the open source implementation of cloudflare codemode concept: https://blog.cloudflare.com/code-mode-mcp/
+
 A local agent that connects to one or more **MCP stdio servers** and supports two
 interaction modes:
 
