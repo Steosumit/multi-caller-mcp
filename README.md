@@ -1,5 +1,7 @@
 # multi-caller-mcp
 
+[![M8ven Score](https://m8ven.ai/badge/mcp/steosumit-multi-caller-mcp-b4j0bp?v=2ba97ffd686c8cead0849ba143d998cf)](https://m8ven.ai/mcp/steosumit-multi-caller-mcp-b4j0bp?s=readme)
+
 Imagine your agent makes `n` calls for doing a `n` step workflow. And during each call it wastes tokens in repititive reasoning and token generation. We can do the same workflow with 2 generations instead of `2 + n`
 
 Idea is the open source implementation of cloudflare codemode concept: https://blog.cloudflare.com/code-mode-mcp/
